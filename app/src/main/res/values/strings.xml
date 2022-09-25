@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">QuizApp2</string>
+    <string name="title_activity_ugc_guide">ugc_guide</string>
+    <string name="large_text">
+
+        "It was felt that an eligibility test at the national level may not be completely able to represent the subjects which are regional in their character. Moreover, the demand for enabling the candidates to appear for the Test in their own mother tongue was also being made. The state governments and union territories were, therefore, given the option of conducting their own Test for eligibility for Lectureship at the state level. Thus was born the concept of SET, i.e., State Eligibility Test for Lectureship Eligibility only. It is conducted both in English and the vernacular.
+
+The Commission at its meeting held on 25th May, 1990 decided to constitute a UGC Committee on Accreditation of Test (U-CAT). The terms of reference of U-CAT are as follows-
+
+Laying down guidelines for holding the tests
+
+Accreditation of tests conducted by agencies other than UGC/CSIR.
+
+Monitoring of tests conducted by other agencies and suggesting follow-up measures.
+
+Extend guidance and help to State level agencies in the organization of the tests.
+
+Based on the recommendations made by U-CAT, the following guidelines are given to the states regarding test design, course content, organization of the test etc. for conducting State Eligibility Test (SET) for Lectureship only.
+
+In accordance with the mandate given by the Government of India, the University Grants Commission (UGC), on request of State Governments, proposed to have STATE ELIGIBILITY TEST (SET) duly accredited by UGC for a fixed term. This state level Test is based on the pattern of the National Eligibility Test (NET) conducted by UGC and UGC/CSIR for Humanities, Social Sciences and Sciences subjects respectively. The State Governments and Union Territories, which are desirous of conducting their own SET, are required to obtain accreditation from UGC from time to time.
+
+Besides conducting the NET, the role of the NET Bureau is to assess and accredit state identified agencies to conduct SET examination. The SET assessment is done by evaluating the performance of the state agency designated by the state government. The Certification of Accreditation is given to the state for a stipulated period of time.
+
+Identification of State Agency- A State Government may identify an agency, which may be a University, or an examination body of repute or a reputed agency associated with recruitment of teachers for higher education.
+
+States conducting SLET - Presently, SET is being conducted in the following states-
+
+Maharashtra and Goa
+
+Tamil Nadu (under consideration as on 14-07-2005)
+
+Madhya Pradesh
+
+Andhra Pradesh
+
+Himachal Pradesh
+
+Jammu and Kashmir
+
+Rajasthan
+
+West Bengal
+
+NE-SLET (Which includes all North Eastern states and Sikkim)
+
+Karnataka (Under consideration as on 14-07-2005)
+
+The Commission constitutes an Accreditation Committee from time to time to assess the performance of the states conducting the SET Examination. The Commission takes a final decision about any state on the basis of the Report of the Committee.
+
+Scope of NET and SLET
+
+Eligibility for Lectureship
+
+Clearing of NET confers eligibility for lectureship upon Indian nationals, i.e. the NET qualified candidates are eligible to apply for the post of lecturer in all Indian universities/Institutes/colleges.
+
+It was resolved in the UGC's Commission Meeting held on 1.11.2001 that commencing from the SET examinations scheduled in or after June, 2002, the SET qualified candidates shall be eligible for appointment to the post of lecturer only in the universities/colleges belonging to the state from where they have passed the SET examination. The status of SET shall remain unchanged for SET examinations conducted prior to 1st June, 2002, that is, the candidates clearing SET were eligible for appointment to the post of lecturer anywhere in India.
+
+Junior Research Fellowship
+
+The candidates who qualify the Junior Research Fellowship (JRF) Examination of UGC/CSIR NET are also eligible for the post of lectureship. In addition they are also eligible to receive Fellowships (UGC/CSIR) under various schemes subject to the candidates finding their placement in the universities/IITs/other national organizations. The validity of the offer is two years w.e.f. the date of issue of JRF award letter. The validity period of the offer has been raised from one year to two years for JRF Award Letters issued on or after 1st April, 2005. However, in case the candidates have already joined M.Phil. /Ph.D., the date of commencement of fellowship will be from the date of declaration of NET examination result or date of their joining, whichever is later."
+
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">Register</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_recycler">Recycler</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

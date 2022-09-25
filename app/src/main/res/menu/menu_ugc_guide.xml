@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.quizapp2.UGCGuide">
+
+
+    <item  android:id="@+id/item_cu"
+        android:icon="@drawable/feedback_ic"
+        android:title="Feedback"
+            />
+
+    <item  android:id="@+id/item_logout"
+        app:showAsAction=""
+        android:icon="@drawable/ic_baseline_login_24"
+        android:title="Logout"/>
+
+    <item  android:id="@+id/item_cancel"
+        app:showAsAction=""
+        android:icon="@drawable/ic_baseline_cancel_24"
+        android:title="Exit"
+        />
+
+</menu>
