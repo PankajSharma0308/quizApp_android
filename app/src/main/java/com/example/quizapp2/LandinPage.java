@@ -35,6 +35,7 @@ public class LandinPage extends AppCompatActivity {
     private ImageButton popup_menu;
     private ConstraintLayout cl;
     SharedPreferences sharedPreferences;
+    String s;
 
 
     @Override
